@@ -16,6 +16,6 @@ GitHub 的图床 repo
 
 其他说明：
 
-由于 picGo 的图片同步功能处于软件架构的原因无法本身自带，picGo 纯粹用作图片上传工具。
+由于 picGo 的图片同步功能由于[软件架构的原因](https://github.com/Molunerfinn/PicGo/issues/641)无法本身自带，picGo 纯粹用作图片上传工具。
 
 如果要管理图片的话，可以把本 repo pull 到本地，然后用专门的图片浏览工具进行管理。
