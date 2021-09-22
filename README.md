@@ -3,12 +3,15 @@ GitHub 的图床 repo
 使用方式：
 1. 下载 [picGo](https://github.com/Molunerfinn/picgo/releases)
 2. 配置 picGo 的 GitHub 图床信息
+    
     2.1. 创建一个 public 的 repo
+    
     2.2. 专门创建一个给 picGo 的 GitHub token（scopes 只需要 repo 权限就行了）
 ![创建 GitHub token](https://raw.githubusercontent.com/YuanBLQ/gitPicture/master/img/202109221258738.png)
 
     2.3. 设置 picGo 的 GitHub 图床配置
 ![picGo GitHub 图床配置](https://raw.githubusercontent.com/YuanBLQ/gitPicture/master/img/202109221259390.png)
+
 3. 尽情享用
 
 其他说明：
